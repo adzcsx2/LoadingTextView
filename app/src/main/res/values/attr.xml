@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="text_change_color" format="color|reference" />
+    <attr name="text_offset" format="float" />
+
+    <declare-styleable name="LoadingTextView">
+        <attr name="text_change_color" />
+        <attr name="text_offset" />
+    </declare-styleable>
+
+</resources>
